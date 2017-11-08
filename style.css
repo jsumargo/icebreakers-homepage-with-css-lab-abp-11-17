@@ -49,3 +49,7 @@ header a {
 header a:hover {
   text-decoration: underline;
 }
+
+main {
+  margin-top: 20px;
+}
